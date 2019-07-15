@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Activity</string>
+    <string name="life_cycle">Life Cycle!</string>
+</resources>
