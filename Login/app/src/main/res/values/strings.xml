@@ -2,4 +2,5 @@
     <string name="app_name">Login</string>
     <string name="loginName">Логин</string>
     <string name="password">Пароль</string>
+    <string name="cancel">Отмена</string>
 </resources>
